@@ -1,0 +1,22 @@
+
+# Logs and envs
+*.log
+.env
+.env.*.local
+
+# Node dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+**/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Coverage
+coverage/
